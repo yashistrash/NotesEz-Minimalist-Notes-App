@@ -1,7 +1,7 @@
 # NotesEZ
 A Flutter based Minimalist Notes App
 
-Features:
+# Features
 -> CRUD Operations
 -> Firebase Database
 -> Google Authentication
