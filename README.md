@@ -1,16 +1,16 @@
-# project
+# NotesEZ
+A Flutter based Minimalist Notes App
 
-A new Flutter project.
+Features:
+-> CRUD Operations
+-> Firebase Database
+-> Google Authentication
+-> DarkMode
+-> State Management
 
-## Getting Started
+# Screentshots
 
-This project is a starting point for a Flutter application.
+![image](https://github.com/yashistrash/NotesEz-Minimalist-Notes-App/assets/164722467/73b99ea6-54c7-4c3e-b11f-8f3bab78f241)
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
