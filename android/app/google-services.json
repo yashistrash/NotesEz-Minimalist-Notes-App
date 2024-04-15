@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "402656408782",
+    "project_id": "notesez",
+    "storage_bucket": "notesez.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:402656408782:android:61eb6e3221f09ea44e4c9f",
+        "android_client_info": {
+          "package_name": "com.example.project"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "402656408782-k7jdd4k2hnm67l3cp45f452q28rkni1t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCfgVPZfOT2nBfbrKAOfQPHb3cuOHBbQpA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "402656408782-k7jdd4k2hnm67l3cp45f452q28rkni1t.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "402656408782-nota01ljsk9q49c8jkugk2g400ft1an5.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.project"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
